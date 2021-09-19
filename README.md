@@ -18,6 +18,8 @@ this is a collection of ISP
 ### short exposure and long exposure
 - https://github.com/cchen156/Learning-to-See-in-the-Dark
 
+### google HDR dataset
+- S. W. Hasinoff, D. Sharlet, R. Geiss, A. Adams, J. T. Barron, F. Kainz, J. Chen, and M. Levoy. Burst photography for high dynamic range and low-light imaging on mobile cameras. ACM Transactions on Graphics, 35(6), 2016.
 
 ## related papers
 - https://github.com/FengJunxi/Awesome-CVPR2021-CVPR2020-Low-Level-Vision
